@@ -1,0 +1,17 @@
+---
+title: "Projects"
+description: "A showcase of data science projects by Reuben Kariuki."
+---
+
+## Credit Risk Prediction Model
+- **Tech Stack**: R, Shiny, Random Forest, ggplot2
+- **Description**: Developed a credit risk prediction model using Random Forest. The app predicts the risk of default for new applicants.
+- **Link**: [Credit Risk Model](https://shorturl.at/V1NLk)
+
+## Customer Churn Analysis
+- **Tech Stack**: R, Tableau, SQL,Excel
+- **Description**: Analyzed customer behavior and identified key factors driving customer churn in a FinTech company, reducing churn by 10%.
+
+## Boosting Business Awareness
+- **Tech Stack**: Spss, Excel, Power Point
+- **Description**: Boosted business awareness across all channels from 65% to 80% within period of one year.

@@ -1,0 +1,8 @@
+---
+title: "Blog"
+description: "Thoughts on data science, tutorials, and industry insights."
+---
+
+## Coming Soon
+
+Stay tuned for exciting blog posts on data science, tutorials, and more!

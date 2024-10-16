@@ -1,0 +1,26 @@
+---
+title: "Reuben Kariuki | Data Scientist"
+description: "Portfolio of Reuben Kariuki, a data scientist with expertise in R, SQL, and FinTech."
+---
+
+## Welcome!
+
+I am **Reuben Kariuki**, a data scientist with a passion for solving business problems using data-driven solutions. My expertise spans various industries including FinTech and E-commerce.
+
+Below you will find a collection of my projects and blog posts.
+
+- **LinkedIn:** [Kariuki Reuben](https://www.linkedin.com/in/kr2026/
+- **GitHub:** [Reuben's GitHub](https://github.com/DataGuy-Kariuki)
+
+### Featured Projects
+
+- **Credit Risk Prediction Model**: An interactive Shiny app that predicts credit risk using Random Forest.
+
+- **Customer Churn Analysis**: Analysis of customer churn in a FinTech environment, reducing churn by 10%.
+
+- **Developed interactive and visually compelling dashboards using Tableau and R-Shiny** to present complex market data trends and insights to key management and stakeholders, resulting in improved decision-making processes.
+
+- **Analyzed market trends and consumer behavior data** to identify new business opportunities and formulate data-driven marketing strategies, leading to increase in market penetration and revenue growth.
+
+
+Thank you for visiting my website. Stay tuned for exciting updates!

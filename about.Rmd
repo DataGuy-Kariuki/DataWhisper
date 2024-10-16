@@ -1,0 +1,23 @@
+---
+title: "About Me"
+description: "Learn more about Reuben Kariuki's professional background and expertise."
+---
+
+I am Reuben Kariuki, a data scientist with over 3 years of experience in solving business problems in the FinTech, E-commerce, and Edutech sectors. My passion lies in transforming raw data into actionable insights that drive strategic decision-making and foster innovation. I specialize in leveraging data analytics to optimize business processes, enhance operational efficiency, and fuel sustainable growth.
+
+Throughout my career, I have developed a strong foundation in data analysis, machine learning, and predictive modeling. I’m skilled in utilizing a range of tools and technologies, including:
+
+- **R for statistical computing and data visualization**
+- **Tableau and Power BI for building interactive dashboards and data storytelling**
+- **SQL for querying and managing databases**
+- **Shiny for developing dynamic web applications**
+
+Additionally, I am proficient in data collection and management techniques. One of the tools I regularly use for this is Kobo Toolbox, a powerful platform that allows for efficient survey data collection, especially in challenging environments. This tool has proven invaluable in capturing high-quality data from fieldwork in a variety of sectors, particularly Edutech and community-driven projects.
+
+Beyond my technical skills, I excel at communicating complex data insights to both technical and non-technical stakeholders. This ability to bridge the gap between data and business strategy ensures that my analyses lead to tangible, real-world improvements.
+
+In my professional journey, I’ve been fortunate to work on various impactful projects, including:
+
+- **Developing a Credit Risk Prediction Model that enhances decision-making in lending by accurately forecasting customer default risks**.
+
+- **Conducting Customer Churn Analysis to reduce churn by 10% in a FinTech firm through actionable insights derived from behavioral data**.

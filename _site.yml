@@ -1,0 +1,18 @@
+name: "Reuben Kariuki"
+title: "Reuben Kariuki | Data Scientist Portfolio"
+output_dir: "docs"
+
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Blog"
+      href: Blog.html 
+output: distill::distill_article
+theme: theme.css
+rss:
+  full_content: true
